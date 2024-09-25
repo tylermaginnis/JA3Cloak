@@ -1,0 +1,15 @@
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\bin\Debug\net7.0\JA3Cloak_InteropLoader.exe
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\bin\Debug\net7.0\JA3Cloak_InteropLoader.deps.json
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\bin\Debug\net7.0\JA3Cloak_InteropLoader.runtimeconfig.json
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\bin\Debug\net7.0\JA3Cloak_InteropLoader.dll
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\bin\Debug\net7.0\JA3Cloak_InteropLoader.pdb
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\obj\Debug\net7.0\JA3Cloak_InteropLoader.csproj.AssemblyReference.cache
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\obj\Debug\net7.0\JA3Cloak_InteropLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\obj\Debug\net7.0\JA3Cloak_InteropLoader.AssemblyInfoInputs.cache
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\obj\Debug\net7.0\JA3Cloak_InteropLoader.AssemblyInfo.cs
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\obj\Debug\net7.0\JA3Cloak_InteropLoader.csproj.CoreCompileInputs.cache
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\obj\Debug\net7.0\JA3Cloak_InteropLoader.dll
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\obj\Debug\net7.0\refint\JA3Cloak_InteropLoader.dll
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\obj\Debug\net7.0\JA3Cloak_InteropLoader.pdb
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\obj\Debug\net7.0\JA3Cloak_InteropLoader.genruntimeconfig.cache
+C:\dev\JA3Cloak\JA3Cloak_InteropLoader\obj\Debug\net7.0\ref\JA3Cloak_InteropLoader.dll
