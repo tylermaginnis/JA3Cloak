@@ -37,7 +37,7 @@ To run the `JA3Cloak_InteropLoader`, you need to specify the mode (`-r` for rand
   - Signature Algorithm: ECDSAWithP256AndSHA256
     
   ```sh
-  JA3Cloak_InteropLoader.exe -c -s example.com -cs TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 -curves X25519,P256 -sigalgs ECDSAWithP256AndSHA256
+  JA3Cloak_InteropLoader.exe -c -s example.com -cs TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 -curves X25519,P256 -sigalgs ECDSA-P256-SHA256
   ```
   
 - Custom JA3 Spoofed Connection
